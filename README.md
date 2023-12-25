@@ -1,4 +1,4 @@
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 <h1 align="center">Hi there 👋, my name is Rayen Triki</h1>
 <h3 align="center"> I am a passionate Web developer from Tunisia</h3>
 I am a student at ESEN University (Higher School of Digital Economy), specializing in Business Information Systems. Currently, I am in search of an end-of-studies internship to gain solid experience in software development.
