@@ -11,7 +11,6 @@ I am a student at ESEN University (Higher School of Digital Economy), specializi
 
 - 📄 Know about my experiences [Resume](https://bit.ly/ResumeRayen)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
