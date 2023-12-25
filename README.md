@@ -1,4 +1,4 @@
-![Header][(./your-header-image-name.png)](https://i.ibb.co/cCGDb2P/github-header-image.png)
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/cCGDb2P/github-header-image.png">
 
 <h1 align="center">Hi 👋, I'm Triki Rayen</h1>
 <h3 align="center">A passionate Web developer from Tunisia</h3>
