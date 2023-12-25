@@ -10,7 +10,7 @@ I am a student at ESEN University (Higher School of Digital Economy), specializi
 
 - 📫 How to reach me **rayen.triki@esen.tn**
 
-- 📄 Know about my experiences [https://bit.ly/ResumeRayen](https://bit.ly/ResumeRayen)
+- 📄 Know about my experiences [Resume](https://bit.ly/ResumeRayen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
