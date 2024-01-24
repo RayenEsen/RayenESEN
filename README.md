@@ -6,9 +6,9 @@ Je suis actuellement étudiant à l'Université ESEN (École Supérieure de l'É
 
 - 🌱 Je travaille actuellement dans **un stage de fin d'études.**
 
-- 📫 How to reach me **rayen.triki@esen.tn**
+- 📫 Comment me joindre **rayen.triki@esen.tn**
 
-- 📄 Connaître mes expériences [My Resume](https://bit.ly/ResumeRayen)
+- 📄 Connaître mes expériences [Mon Cv](https://bit.ly/ResumeRayen)
 
 <p align="left">
 </p>
