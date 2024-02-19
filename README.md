@@ -8,8 +8,6 @@ Je suis actuellement étudiant à l'Université ESEN (École Supérieure de l'É
 
 -  Comment me joindre **rayen.triki@esen.tn**
 
--  Connaître mes expériences [Mon Cv](https://bit.ly/ResumeRayen)
-
 <p align="left">
 </p>
 
