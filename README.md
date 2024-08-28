@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Rayen.</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <p>I have a degree from ESEN University (Higher School of Digital Economy), specialized in Business Information Systems (BIS). I am currently looking for a job as a web developer.</p>
 
