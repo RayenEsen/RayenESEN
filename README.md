@@ -61,9 +61,7 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Windows_Server_logo.svg" alt="windows server" width="40" height="40"/>
-</a>
+
 
 </p>
 
