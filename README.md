@@ -6,7 +6,6 @@
 <hr>
 
 <p>You can reach me at <strong>rayentriki2003@gmail.com</strong></p>
-<p>My Portfolio: <a href="https://rayentrikiporfolio.netlify.app" target="_blank" rel="noopener noreferrer">rayentrikiporfolio.netlify.app</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
